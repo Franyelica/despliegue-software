@@ -4,7 +4,7 @@ PRACTICA 1 - CI
 - Big Whale
 
 ## Integrantes
-- Maria Jose Yepez
+- Maria Jose Yepes
 - Yulieth Urrego Restrepo
 - Franyelica Garcia
 - Santiago Castaño Torres
