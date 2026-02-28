@@ -9,7 +9,7 @@ namespace LogisticaEnvios.Controllers
         [HttpGet(Name = "GetHome")]
         public string Get()
         {
-            return "ERROR intencional desde Git Desktop";
+            return "Nuevo mensaje desde la correción";
         }
     }
 }
