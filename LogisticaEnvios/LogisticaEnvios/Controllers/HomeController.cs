@@ -9,7 +9,7 @@ namespace LogisticaEnvios.Controllers
         [HttpGet(Name = "GetHome")]
         public string Get()
         {
-            return "Hello World desde la nueva funcionalidad";
+            return "Nuevo mensaje desde la correción";
         }
     }
 }
