@@ -9,7 +9,7 @@ namespace LogisticaEnvios.Controllers
         [HttpGet(Name = "GetHome")]
         public string Get()
         {
-            return "Tercer ERROR intencional desde Visual Studio";
+            return "Tercer ERROR intencional desde Visual Studio para revert";
         }
     }
 }
