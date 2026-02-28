@@ -20,7 +20,7 @@ namespace LogisticaEnvios.Controllers
         {
             if (!_dbContext.TipoProducto.Any())
             {
-                return NotFound("No hay tipos de producto disponibles.");
+                return NotFound("No se encontraron tipos de producto en el sistema.");
             }
 
             return await _dbContext.TipoProducto.ToListAsync();
